@@ -1,0 +1,25 @@
+body {
+    background-color: #F5f5f5;
+}
+
+p {
+	font-family: 'Droid Sans', sans-serif;
+	font-style: bold;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+}
+
+a {
+	font-family: 'Droid Sans', sans-serif;
+    color: black;
+    font-size: 24px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p.update {
+	font-size: 16px;
+}
